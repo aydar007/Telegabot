@@ -1,4 +1,4 @@
 pyTelegramBotAPI
-types
+telebot.types
 random
-Message
+telebot.types.Message
